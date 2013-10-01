@@ -1,0 +1,4 @@
+Automated-Online-Programming-Contest-System
+===========================================
+
+Besides overcoming all the problems on the current techniques, these are the objectives that wish accomplish by the system:-  I.	The main objective of this project is to create a tool to manage programming contest online. It will also serve as a community for programmers to share ideas. Unfortunately, programming is something that does not come naturally. Formal training is necessary if one wants to succeed and be able to contribute new ideas. Keeping this in mind, there will be forums and mock contest to build up the foundation of new users.   II.	It will also serve as a platform to motivate and facilitate their learning process, contests are held at regular basis and the best contestants will receive medals and incentives this will sharpen the contestants' programming skills through some real-life computing practices.
